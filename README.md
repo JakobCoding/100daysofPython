@@ -3,7 +3,7 @@
 
 # Treasure Island Game
 
-<img src="" alt="Alt text" width="500" height="300">
+<img src="Capture.PNG" alt="Alt text">
 
 
 
